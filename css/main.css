@@ -1,0 +1,31 @@
+.pirmasdiv{
+    background-image: url('../foto/bg.jpg');
+    height: 100%;
+    width: 100%;
+}
+.hederis{
+    height: 100px;
+}
+#krepselis{
+    position: absolute;
+    right: 100px;
+    top: 40px;
+}
+h1{
+    font-family: Arial;
+    font-size: 38px;
+    color: #38071c;
+    border: gainsboro;
+    border-style: outset;
+    text-align: center;
+    text-shadow: 1.5px 1px rgba(56,7,28,0.6);
+}
+#karoliukai{
+    position: relative;
+    left: 80px;
+}
+p{
+    font-family: Arial;
+    font-size: 14px;
+    color: #38071c;
+}

@@ -1,0 +1,132 @@
+.hederis{
+    height: 100px;
+    width: 100%;
+    background-color: gainsboro;
+}
+#krepselis{
+    position: relative;
+    bottom: 20px;
+    left: 550px;
+}
+.pagrindas{
+    width: 100%;
+    height: 100%;
+    position: center;
+    background-color: gainsboro;
+}
+.list{
+    width:30%;
+    height: 700px;
+    float: left;
+    background-color: gainsboro;
+}
+.ap{
+    width:70%;
+    height: 700px;
+    float: right;
+    background-color: gainsboro;
+
+}
+.centr{
+    width: 100%;
+    height: 800px;
+    position: center;
+}
+
+#pozicija1{
+    position: absolute;
+    top: 200px;
+    left: 500px;
+}
+#pozicija2{
+    position: absolute;
+    top: 150px;
+    left: 600px;
+}
+#pozicija3{
+    position: absolute;
+    top: 140px;
+    left: 700px;
+}
+#pozicija4{
+    position: absolute;
+    top: 140px;
+    left: 800px;
+}
+#pozicija5{
+    position: absolute;
+    top: 150px;
+    left: 900px;
+}
+#pozicija6{
+     position: absolute;
+     top: 200px;
+     left: 1000px;
+ }
+#pozicija7{
+    position: absolute;
+    top: 300px;
+    left: 1030px;
+}
+#pozicija8{
+    position: absolute;
+    top: 400px;
+    left: 1040px;
+}
+#pozicija9{
+    position: absolute;
+    top: 500px;
+    left: 1030px;
+}
+#pozicija10{
+    position: absolute;
+    top: 600px;
+    left: 1010px;
+}
+#pozicija11{
+     position: absolute;
+     top: 630px;
+     left: 900px;
+ }
+#pozicija12{
+    position: absolute;
+    top: 640px;
+    left: 800px;
+}
+#pozicija13{
+    position: absolute;
+    top: 640px;
+    left: 700px;
+}
+#pozicija14{
+    position: absolute;
+    top: 630px;
+    left: 600px;
+}
+#pozicija15{
+    position: absolute;
+    top: 600px;
+    left: 500px;
+}
+#pozicija16{
+    position: absolute;
+    top: 500px;
+    left: 480px;
+}
+#pozicija17{
+    position: absolute;
+    top: 400px;
+    left: 460px;
+}
+#pozicija18{
+    position: absolute;
+    top: 300px;
+    left: 480px;
+}
+select{
+    height: 22px;
+}
+p3{
+margin-left: 50px;
+    margin-right: 15px;
+}

@@ -1,0 +1,58 @@
+.pirmasdiv{
+    background-color: rgba(240,227,253,0.67);
+    height: 100%;
+    width: 100%;
+}
+.hederis{
+    height: 100px;
+}
+#krepselis{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+#kontaktai{
+    border: gainsboro;
+    border-style: outset;
+    width:35%;
+    padding: 1px;
+    margin: 1px;
+    float: right;
+}
+p{
+    font-family: Arial;
+    font-size: 14px;
+    color: #3a343d;
+    alignment: left;
+    padding: 2px;
+    margin: 3px;
+}
+input, select{
+    padding: 2px;
+    margin: 2px;
+    border-style: inset;
+    background-color: gainsboro;
+    width: 300px;
+    height: 20px;
+}
+#namas, #butas{
+    width: 100px;
+}
+#submit{
+    width: 450px;
+    height: 35px;
+    font-family: Arial;
+    font-size: 18px;
+    color: #3a343d;
+    text-shadow: 1px 1px gainsboro;
+    background-color: lavender;
+}
+.pirkiniai{
+    width:60%;
+    padding: 1px;
+    margin: 1px;
+    float: left;
+    font-family: Arial;
+    font-size: 18px;
+    color: #3a343d;
+}
